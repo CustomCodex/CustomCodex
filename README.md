@@ -1,4 +1,4 @@
-[![MasterHead](https://webbylab.com/wp-content/uploads/2023/01/banner.png)]<h1 align="center">Hi 👋, I'm Bjorn @costumcodex</h1>
+![MasterHead](https://webbylab.com/wp-content/uploads/2023/01/banner.png)<h1 align="center">Hi 👋, I'm Bjorn @costumcodex</h1>
 <h3 align="center">I'm Bjorn, also known as Hutsakeee, a FiveM developer passionate about crafting custom LUA scripts to enhance your roleplay server experience. I create bespoke scripts tailored to your needs, and I’m excited to share my work with the community!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=customcodex&label=Profile%20views&color=0e75b6&style=flat" alt="customcodex" /> </p>
