@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bjorn @costumcodex</h1>
+[![MasterHead](https://webbylab.com/wp-content/uploads/2023/01/banner.png)]<h1 align="center">Hi 👋, I'm Bjorn @costumcodex</h1>
 <h3 align="center">I'm Bjorn, also known as Hutsakeee, a FiveM developer passionate about crafting custom LUA scripts to enhance your roleplay server experience. I create bespoke scripts tailored to your needs, and I’m excited to share my work with the community!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=customcodex&label=Profile%20views&color=0e75b6&style=flat" alt="customcodex" /> </p>
@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [ESX FiveM Custom Scripts](https://github.com/CustomCodex/Police-Armory)
+<img align="right" alt="coding" width="400" src="https://www.shutterstock.com/image-vector/3d-programmer-male-character-vector-600nw-2265029485.jpg">
+
+- 🔭 I’m currently working on FiveM (ESX) costum scripts FREE to download and use.
 
 - 🌱 I’m currently learning **CSS, HTML, PHP, Python, LUA**
 
