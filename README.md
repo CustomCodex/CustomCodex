@@ -25,7 +25,6 @@
 <p><a href="https://www.buymeacoffee.com/costumcodex"></a></p><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="customcodex" /></a></p><br><br>
 <br><br>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/teamhuts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/teamhuts" height="30" width="40" /></a>
 <a href="https://fb.com/https://facebook.com/hutsakeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/hutsakeee" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/hutsakeeetje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/hutsakeeetje" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@hutsakeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@hutsakeee" height="30" width="40" /></a>
